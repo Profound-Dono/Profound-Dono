@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning the basics of HTML
+- 🔭 I’m currently working on how to build a Cat photo app with HTML
+- 📫 How to reach me: @profound_dono on IG
+
 <!--
 **Profound-Dono/Profound-Dono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
